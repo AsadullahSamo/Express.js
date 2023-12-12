@@ -1,0 +1,26 @@
+[
+    {
+        "id": 3,
+        "name": "Excavation",
+        "releaseYear": 2006,
+        "duration": 105
+    },
+    {
+        "id": 4,
+        "name": "Mission Impossible",
+        "releaseYear": 2016,
+        "duration": 110
+    },
+    {
+        "id": 5,
+        "name": "Twilight Saga",
+        "releaseYear": 2023,
+        "duration": 120
+    },
+    {
+        "id": 6,
+        "name": "Spiderman homecoming",
+        "releaseYear": 2023,
+        "duration": 115
+    }
+]
